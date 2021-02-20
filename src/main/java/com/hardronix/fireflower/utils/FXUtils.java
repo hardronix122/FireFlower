@@ -1,10 +1,8 @@
 package com.hardronix.fireflower.utils;
 
-import com.hardronix.fireflower.Config;
 import com.hardronix.fireflower.javafx.FireFlower;
 import javafx.scene.Node;
 import javafx.scene.control.Label;
-import javafx.scene.effect.BlurType;
 import javafx.scene.effect.DropShadow;
 
 public class FXUtils {
